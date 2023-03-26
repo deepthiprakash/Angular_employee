@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "firstname": "Pankaj",
+      "lastname": "Kumar",
+      "birthdate": "1978-07-20",
+      "gender": "m",
+      "education": "PhD",
+      "company": "Google",
+      "jobExperience": 23,
+      "salary": 60,
+      "profile": "Profile-06.jpg",
+      "id": 7
+    },
+    {
+      "firstname": "Nikhil",
+      "lastname": "Rane",
+      "birthdate": "1980-05-23",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "FIS",
+      "jobExperience": 6,
+      "salary": 4.9,
+      "profile": "Profile-03.jpg",
+      "id": 9
+    },
+    {
+      "firstname": "Pooja",
+      "lastname": "Kumari",
+      "birthdate": "1990-08-30",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Google",
+      "jobExperience": 12,
+      "salary": 35,
+      "profile": "Profile-05.jpg",
+      "id": 10
+    },
+    {
+      "firstname": "Rohit",
+      "lastname": "Sharma",
+      "birthdate": "2022-01-12",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Google",
+      "jobExperience": 20,
+      "salary": 50,
+      "profile": "Profile-01.jpg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,38 @@
+.black-border {
+    border: 1px solid black;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 1rem;
+  }
+  
+  table {
+    width: 90%;
+    /* background-color: #ecf0f3; */
+    border-radius: 15px;
+    box-shadow: -13px -13px 20px rgb(127, 47, 47);
+    color:white;
+  }
+
+  .name {
+    /* font-family: 'Abril Fatface', cursive; */
+    font-size: 2rem;
+    font-weight: 600;
+    font-style: italic;
+    /* letter-spacing: 3px; */
+  
+    /* border: 1px solid rgba(0, 0, 0, 0.2); */
+    border-radius: 10px;
+    padding: 0px 2rem;
+    color:red;
+    box-shadow: -13px -13px 20px rgb(127, 47, 47);
+  }
+
+  .hello{
+    /* background-color: #ecf0f3; */
+    border-radius: 15px;
+    background:rgba(0,0,0,0.6);
+    box-shadow:  -13px -13px 20px rgb(127, 47, 47);
+    
+  }

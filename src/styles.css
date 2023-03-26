@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: "Poppins", sans-serif;  
+    background-image: url(./assets/images/blacbag2.jpg);
+     /* background-repeat:inherit; */
+    background-size:60%;
+   
+ 
+
+
+}
