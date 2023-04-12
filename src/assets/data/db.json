@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "firstname": "Pankaj",
-      "lastname": "Kumar",
+      "firstname": "Nikhil",
+      "lastname": "Koshi",
       "birthdate": "1978-07-20",
       "gender": "m",
       "education": "PhD",
@@ -13,8 +13,8 @@
       "id": 7
     },
     {
-      "firstname": "Nikhil",
-      "lastname": "Rane",
+      "firstname": "Ram",
+      "lastname": "Sagar",
       "birthdate": "1980-05-23",
       "gender": "m",
       "education": "post graduate",
@@ -26,7 +26,7 @@
     },
     {
       "firstname": "Pooja",
-      "lastname": "Kumari",
+      "lastname": "Nair",
       "birthdate": "1990-08-30",
       "gender": "f",
       "education": "graduate",
@@ -38,7 +38,7 @@
     },
     {
       "firstname": "Rohit",
-      "lastname": "Sharma",
+      "lastname": "Kumar",
       "birthdate": "2022-01-12",
       "gender": "m",
       "education": "post graduate",
@@ -46,7 +46,7 @@
       "jobExperience": 20,
       "salary": 50,
       "profile": "Profile-01.jpg",
-      "id": 1
+      "id": 11
     }
   ],
   "comments": [],
